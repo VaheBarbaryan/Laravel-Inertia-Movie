@@ -1,0 +1,1 @@
+<a href="{{ $body['url'] }}" target="_blank">Verify Email</a>
